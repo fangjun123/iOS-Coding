@@ -1,8 +1,7 @@
 //
 //  NSString+GYLExtension.m
-//  GUBaiSI
 //
-//  Created by 永亮 谷 on 8/3/16.
+//  Created by Recluse on 8/3/16.
 //  Copyright © 2016 Recluse. All rights reserved.
 //
 
